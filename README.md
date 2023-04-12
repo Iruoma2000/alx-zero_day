@@ -1,1 +1,1 @@
-My first readme
+ALX is not for the weak
